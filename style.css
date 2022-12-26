@@ -1,0 +1,32 @@
+.container {
+  margin-top: 300px;
+}
+
+.card-header {
+  background-color:tan;
+  font-size:x-large;
+  font-family:Georgia, 'Times New Roman', Times, serif
+}
+
+.card-body {
+background-color: lemonchiffon;
+}
+
+#surnameOutput {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: italic;
+}
+
+#firstNameOutput {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: italic;
+}
+
+#patronymicOutput {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-style: italic;
+}
+
